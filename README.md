@@ -14,15 +14,15 @@ This installs some handy text parsing utilities, and the latest ecs-cli.
 ## Clone this demo repository:
 ```
 cd ~/environment
-git clone https://github.com/brentley/container-demo.git
+git clone https://github.com/dileepdwi10/container-demo.git
 ```
 
 ## Clone our application microservice repositories:
 ```
 cd ~/environment
-git clone https://github.com/brentley/ecsdemo-frontend.git
-git clone https://github.com/brentley/ecsdemo-nodejs.git
-git clone https://github.com/brentley/ecsdemo-crystal.git
+git clone https://github.com/dileepdwi10/ecsdemo-frontend.git
+git clone https://github.com/dileepdwi10/ecsdemo-nodejs.git
+git clone https://github.com/dileepdwi10/ecsdemo-crystal.git
 ```
 
 ## Build a VPC, ECS Cluster, and ALB:
